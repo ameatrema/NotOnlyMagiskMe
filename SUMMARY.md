@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Overture｜欢迎踏上玩机之旅](README.md)
+* [🎆 Overture｜欢迎踏上玩机之旅](README.md)
   * [Info | 更新日志](master/changelog.md)
   * [Info | 鸣谢&支持](master/thanks\_and\_support.md)
 
-## 🔐 Chapter 1｜迈出第一步：解锁Bootloader <a href="#bootloader" id="bootloader"></a>
+## 🔐 Chapter 1｜解锁Bootloader - 了解你的机型 <a href="#bootloader" id="bootloader"></a>
 
 * [🔒 1.1 · 简单了解Bootloader](bootloader/quick\_start.md)
 * [❓ 1.2 · 我的设备能否解锁Bootloader](bootloader/check\_qualification/README.md)
