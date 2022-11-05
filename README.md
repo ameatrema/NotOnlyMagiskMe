@@ -22,17 +22,44 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 
 ### Chapter **2**｜**刷入Magisk - 恢复**
 
-解锁手机之后，如何把Magisk安装到系统中？本章中将会提到第一种方式——利用Recovery刷入Magisk。在这里，你将会接触一些稍微硬核的知识，不过别担心，跟着步骤慢慢来，你一定会收获颇丰。当然，本章还会拓展介绍Recovery的其他妙用，你会发现，这个模式可以帮助你解决很多问题。
+解锁手机之后，如何把Magisk安装到系统中？将会提到第一种方式——利用Recovery刷入Magisk。在这里，你将会接触一些稍微硬核的知识，不过别担心，跟着步骤慢慢来，你一定会收获颇丰。当然，本章还会拓展介绍Recovery的其他妙用，你会发现，这个模式可以帮助你解决很多问题。
+
+费尽心思也没有找到适合你的机型的Recovery？没关系，我们还有第二种刷入Magisk的方式——通过Fastboot刷入Magisk。在面对漆黑的终端窗口时，不必担心，一步一步来，你会发现，那些之前看上去像黑客一般的英文，也会变得简单易懂，刷面具分分钟搞定。同时，本章还会延伸Fastboot及adb的某些基础相关知识，帮你一窥这黑色之后的秘密。
 
 {% content-ref url="bootloader/check_qualification/verify_devices.md" %}
 [verify\_devices.md](bootloader/check\_qualification/verify\_devices.md)
 {% endcontent-ref %}
 
-### Chapter 3｜**用Fastboot刷入Magisk - 命令行无需惧怕**
+### Chapter 3｜**Magisk初上手 - 这些模块值得一试**
 
-费尽心思也没有找到适合你的机型的Recovery？没关系，我们还有第二种刷入Magisk的方式——通过Fastboot刷入Magisk。在面对漆黑的终端窗口时，初学者难免心生一丝畏惧，但不必担心，一步一步来，你会发现，那些之前看上去像黑客一般的英文，也会变得简单易懂，刷面具分分钟搞定。同时，本章还会延伸Fastboot及adb的某些基础相关知识，帮你一窥这黑色之后的秘密。
+当你打开Magisk App，看到“已安装”后出现了版本号的时候，一定会心生一丝成就感。恭喜你！你已经打开了Magisk的魔法大门，接下来就该尽情探索了。本章就是你的一个向导，对高人气的一些模块进行了简单的介绍，帮你快速上手，让你得心应手。
 
 {% content-ref url="bootloader/way_to_unlock/" %}
 [way\_to\_unlock](bootloader/way\_to\_unlock/)
 {% endcontent-ref %}
 
+### Chapter 4｜路上不会一帆风顺 - 各类问题的排查、搜索与解决
+
+我们的旅程中，有鲜花，也有荆棘。你可能早已听说过“变砖”，但也可能会被吓得措手不及。并且，在使用过程中，你的手机可能还会出现很多奇奇怪怪的问题。所以，在本章中，我们将会介绍一些排查、解决问题的基本思路，以及一些最常见问题的通用解决方案。不过要记住，即使是流水线上的产物，每个人的手机也会因为使用情况而变得不同。要学会解决问题的方法，逐渐摒弃“饭来张口”的思维，才能让你披荆斩棘。
+
+{% content-ref url="bootloader/if_cant_unlock.md" %}
+[if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
+{% endcontent-ref %}
+
+### Chapter 5｜**换个风景 - 第三方ROM的相关介绍与刷入方法**
+
+用腻了手机自带的系统？觉得其他家的系统很新奇，想要体验却不想买新机？想一睹传说中“类原生”系统的真容？没关系。刷个系统就能让你原来的手机焕然一新。在这里，我们将会简单介绍一些较为热门的国内外定制系统和类原生系统，既能过个眼瘾，又能动手尝试，还记得之前的Recovery与Fastboot吗？现在就派上用场了，去尝试吧！
+
+{% content-ref url="bootloader/if_cant_unlock.md" %}
+[if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
+{% endcontent-ref %}
+
+### Chapter 6｜**请记住我 - 适合自己的选择**
+
+人生从不缺离别。曾经的爱机也有退役的一天。怎样寻得满意的新欢？或许充斥在各处的广告已经让你眼花缭乱。本章将会结合前面的内容，对参数、体验等手机的重要因素进行简单分析，当然，决定权一定在你的手里。一千个人眼中有一千个哈姆雷特，希望你可以形成自己的标准，做一个理智的消费者。
+
+{% content-ref url="bootloader/way_to_unlock/way_to_lock.md" %}
+[way\_to\_lock.md](bootloader/way\_to\_unlock/way\_to\_lock.md)
+{% endcontent-ref %}
+
+目前，教程仍处在起草与探索阶段，具体的框架尚未定型，。如有意见或建议，也欢迎大家提出，让更多的人享受到玩机的乐趣。
