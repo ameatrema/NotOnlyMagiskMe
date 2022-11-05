@@ -4,7 +4,9 @@ description: 现在是，咕咕时间！有相关意见和建议欢迎提出。
 
 # Info | 更新日志
 
-## 更新日志｜最近更新日期：2022.11.5
+<details>
+
+<summary>更新日志｜最近更新日期：2022.11.5</summary>
 
 #### Version 2022 Update 5 · 2022.11.5
 
@@ -30,24 +32,48 @@ description: 现在是，咕咕时间！有相关意见和建议欢迎提出。
 * 教程第一版框架定型
 * 新增Overture相关内容
 
-## 文章主体完成状态（画饼）
+</details>
 
-* [x] Overture - 简介
-* [ ] Chapter 1 - Bootloader
+<details>
+
+<summary>文章框架完成状态｜第一版</summary>
+
+* Chapter 1 - Bootloader
   * [x] 1.1 Bootloader简介
   * [ ] 1.2 解锁资格查询
   * [ ] 1.2-Ex 简易验机思路
   * [ ] 1.3 解锁方式介绍
   * [ ] 1.3-Ex 回锁教程
   * [ ] 1.4 不能解锁的情况下体验部分玩机软件
-* [ ] Chapter 2
+
+<!---->
+
+* Chapter 2
   *
-* [ ] Chapter 3
+
+<!---->
+
+* Chapter 3
   *
-* [ ] Chapter 4
+
+<!---->
+
+* Chapter 4
   *
-* [ ] Chapter 5
+
+<!---->
+
+* Chapter 5
   *
-* [ ] Chapter 6 - 选购新手机
+
+<!---->
+
+* Chapter 6 - 选购新手机
   *
-* [ ] （第一版框架，可能会面临较大改动）
+
+<!---->
+
+* （第一版框架，可能会面临较大改动）
+
+</details>
+
