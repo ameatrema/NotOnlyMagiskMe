@@ -1,12 +1,12 @@
 ---
-description: 现在是，咕咕时间！有相关意见和建议欢迎提出。
+description: 现在是，咕咕时间！
 ---
 
-# Info | 更新日志
+# ℹ Info | 更新日志
 
 <details>
 
-<summary>更新日志｜最近更新日期：2022.11.5</summary>
+<summary>Version 2022 更新日志｜最近更新日期：2022.11.5</summary>
 
 #### Version 2022 Update 5 · 2022.11.5
 

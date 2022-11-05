@@ -2,7 +2,7 @@
 description: 不论你想要折腾手机的动机是什么，欢迎你！
 ---
 
-# 🎆 Overture｜欢迎踏上玩机之旅
+# 🌌 Overture｜欢迎踏上玩机之旅
 
 大家好，这里是Not Only Magisk Me系列玩机教程。这个教程与其他的教程相比，似曾相识，却又不尽相同。虽然现在，你可以在很多渠道轻易地找到很多安装及使用Magisk的，几乎傻瓜式的教程，但本教程的目的不止于此。
 
@@ -34,8 +34,8 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 
 当你打开Magisk App，看到“已安装”后出现了版本号的时候，一定会心生一丝成就感。恭喜你！你已经打开了Magisk的魔法大门，接下来就该尽情探索了。本章就是你的一个向导，对高人气的一些模块进行了简单的介绍，帮你快速上手，让你得心应手。
 
-{% content-ref url="bootloader/way_to_unlock/" %}
-[way\_to\_unlock](bootloader/way\_to\_unlock/)
+{% content-ref url="bootloader/ways_to_unlock/" %}
+[ways\_to\_unlock](bootloader/ways\_to\_unlock/)
 {% endcontent-ref %}
 
 ### Chapter 4｜路上不会一帆风顺 - 各类问题的排查、搜索与解决
@@ -58,8 +58,8 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 
 人生从不缺离别。曾经的爱机也有退役的一天。怎样寻得满意的新欢？或许充斥在各处的广告已经让你眼花缭乱。本章将会结合前面的内容，对参数、体验等手机的重要因素进行简单分析，当然，决定权一定在你的手里。一千个人眼中有一千个哈姆雷特，希望你可以形成自己的标准，做一个理智的消费者。
 
-{% content-ref url="bootloader/way_to_unlock/way_to_lock.md" %}
-[way\_to\_lock.md](bootloader/way\_to\_unlock/way\_to\_lock.md)
+{% content-ref url="bootloader/ways_to_unlock/ways_to_lock.md" %}
+[ways\_to\_lock.md](bootloader/ways\_to\_unlock/ways\_to\_lock.md)
 {% endcontent-ref %}
 
 目前，教程仍处在起草与探索阶段，具体的框架尚未定型，。如有意见或建议，也欢迎大家提出，让更多的人享受到玩机的乐趣。
