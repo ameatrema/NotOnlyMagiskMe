@@ -20,7 +20,7 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 [quick\_start.md](bootloader/quick\_start.md)
 {% endcontent-ref %}
 
-### Chapter **2**｜**刷入Magisk - 恢复**
+### Chapter **2**｜**刷入Magisk - 恢复模式与命令行**
 
 解锁手机之后，如何把Magisk安装到系统中？将会提到第一种方式——利用Recovery刷入Magisk。在这里，你将会接触一些稍微硬核的知识，不过别担心，跟着步骤慢慢来，你一定会收获颇丰。当然，本章还会拓展介绍Recovery的其他妙用，你会发现，这个模式可以帮助你解决很多问题。
 
@@ -38,7 +38,15 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 [ways\_to\_unlock](bootloader/ways\_to\_unlock/)
 {% endcontent-ref %}
 
-### Chapter 4｜路上不会一帆风顺 - 各类问题的排查、搜索与解决
+### Chapter 4｜没有Magisk没关系 - 不解锁Bootloader时可以干什么
+
+如果因为各种原因，你不能解锁Bootloader，也没有关系。在没有Magisk的情况下，借助其他的软件，我们也可以对手机进行一系列的操作。虽然效果、操作难易程度可能不如使用Magisk，但也可以让你体会到玩机的乐趣。
+
+{% content-ref url="bootloader/if_cant_unlock.md" %}
+[if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
+{% endcontent-ref %}
+
+### Chapter 5｜路上不会一帆风顺 - 各类问题的排查、搜索与解决
 
 我们的旅程中，有鲜花，也有荆棘。你可能早已听说过“变砖”，但也可能会被吓得措手不及。并且，在使用过程中，你的手机可能还会出现很多奇奇怪怪的问题。所以，在本章中，我们将会介绍一些排查、解决问题的基本思路，以及一些最常见问题的通用解决方案。不过要记住，即使是流水线上的产物，每个人的手机也会因为使用情况而变得不同。要学会解决问题的方法，逐渐摒弃“饭来张口”的思维，才能让你披荆斩棘。
 
@@ -46,7 +54,7 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 [if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
 {% endcontent-ref %}
 
-### Chapter 5｜**换个风景 - 第三方ROM的相关介绍与刷入方法**
+### Chapter 6｜**换个风景 - 第三方ROM的相关介绍与刷入方法**
 
 用腻了手机自带的系统？觉得其他家的系统很新奇，想要体验却不想买新机？想一睹传说中“类原生”系统的真容？没关系。刷个系统就能让你原来的手机焕然一新。在这里，我们将会简单介绍一些较为热门的国内外定制系统和类原生系统，既能过个眼瘾，又能动手尝试，还记得之前的Recovery与Fastboot吗？现在就派上用场了，去尝试吧！
 
@@ -54,7 +62,7 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 [if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
 {% endcontent-ref %}
 
-### Chapter 6｜**请记住我 - 适合自己的选择**
+### Chapter 7｜**请记住我 - 适合自己的选择**
 
 人生从不缺离别。曾经的爱机也有退役的一天。怎样寻得满意的新欢？或许充斥在各处的广告已经让你眼花缭乱。本章将会结合前面的内容，对参数、体验等手机的重要因素进行简单分析，当然，决定权一定在你的手里。一千个人眼中有一千个哈姆雷特，希望你可以形成自己的标准，做一个理智的消费者。
 

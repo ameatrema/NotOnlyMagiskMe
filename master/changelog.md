@@ -8,6 +8,12 @@ description: 现在是，咕咕时间！
 
 <summary>Version 2022 更新日志｜最近更新日期：2022.11.5</summary>
 
+#### Version 2022 Update 6 · 2022.11.6
+
+* 重写1.1节相关内容
+* 增加“免root玩机“相关框架
+* 增加鸣谢内容
+
 #### Version 2022 Update 5 · 2022.11.5
 
 * 迁移教程至GitBook
@@ -48,32 +54,32 @@ description: 现在是，咕咕时间！
 
 <!---->
 
-* Chapter 2
+* Chapter 2 - 刷入Magisk
   *
 
 <!---->
 
-* Chapter 3
+* Chapter 3 - Magisk上手
   *
 
 <!---->
 
-* Chapter 4
+* Chapter 4 - 免解锁玩机
   *
 
 <!---->
 
-* Chapter 5
+* Chapter 5 - 问题排查
   *
 
 <!---->
 
-* Chapter 6 - 选购新手机
+* Chapter 6 - 第三方ROM
   *
 
 <!---->
 
-* （第一版框架，可能会面临较大改动）
+* Chapter 7 - 选购新手机
 
 </details>
 

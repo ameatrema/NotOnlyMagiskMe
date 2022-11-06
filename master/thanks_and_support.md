@@ -6,9 +6,17 @@ description: 先感谢一波～如果对文章任何部分有意见/建议的话
 
 <details>
 
+<summary>鸣谢</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>联系作者：ameatrema / AM</summary>
 
-* QQ：1839277381
+* QQ：748588874
 * Telegram：
 * Bilibili：
 * CoolAPK：
