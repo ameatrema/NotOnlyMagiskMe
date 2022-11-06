@@ -30,7 +30,7 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 [verify\_devices.md](bootloader/check\_qualification/verify\_devices.md)
 {% endcontent-ref %}
 
-### Chapter 3｜**Magisk初上手 - 这些模块值得一试**
+### Chapter 3｜**Magisk 初上手 - 这些模块值得一试**
 
 当你打开Magisk App，看到“已安装”后出现了版本号的时候，一定会心生一丝成就感。恭喜你！你已经打开了Magisk的魔法大门，接下来就该尽情探索了。本章就是你的一个向导，对高人气的一些模块进行了简单的介绍，帮你快速上手，让你得心应手。
 

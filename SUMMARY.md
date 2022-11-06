@@ -18,6 +18,26 @@
   * [💡 1.3-Ex · 后悔药：如何回锁Bootloader](bootloader/ways\_to\_unlock/ways\_to\_lock.md)
 * [😣 1.4 · 如果不能解锁，我还能继续吗？（待更新）](bootloader/if\_cant\_unlock.md)
 
-## Group 1
+## ⬇ Chapter 2｜刷入Magisk - 恢复模式与命令行 <a href="#flash_magisk" id="flash_magisk"></a>
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](flash\_magisk/page-1.md)
+
+## 📲 Chapter 3｜Magisk 初上手 - 这些模块值得一试 <a href="#try_magisk" id="try_magisk"></a>
+
+* [Page 2](try\_magisk/page-2.md)
+
+## 🤷 Chapter 4｜没有 Magisk 没关系 - 不解锁 Bootloader 时可以干什么 <a href="#without_magisk" id="without_magisk"></a>
+
+* [Page 3](without\_magisk/page-3.md)
+
+## ⚠ Chapter 5｜路上不会一帆风顺 - 各类问题的排查、搜索与解决 <a href="#troubleshoot" id="troubleshoot"></a>
+
+* [Page 4](troubleshoot/page-4.md)
+
+## 🪟 Chapter 6｜换个风景 - 第三方ROM的相关介绍与刷入方法 <a href="#customize_roms" id="customize_roms"></a>
+
+* [Page 5](customize\_roms/page-5.md)
+
+## 🖐 Chapter 7｜请记住我 - 适合自己的选择 <a href="#remember_me" id="remember_me"></a>
+
+* [Page 6](remember\_me/page-6.md)
