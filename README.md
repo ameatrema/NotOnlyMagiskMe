@@ -26,8 +26,8 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 
 费尽心思也没有找到适合你的机型的Recovery？没关系，我们还有第二种刷入Magisk的方式——通过Fastboot刷入Magisk。在面对漆黑的终端窗口时，不必担心，一步一步来，你会发现，那些之前看上去像黑客一般的英文，也会变得简单易懂，刷面具分分钟搞定。同时，本章还会延伸Fastboot及adb的某些基础相关知识，帮你一窥这黑色之后的秘密。
 
-{% content-ref url="bootloader/check_qualification/verify_devices.md" %}
-[verify\_devices.md](bootloader/check\_qualification/verify\_devices.md)
+{% content-ref url="flash_magisk/how_to_flash.md" %}
+[how\_to\_flash.md](flash\_magisk/how\_to\_flash.md)
 {% endcontent-ref %}
 
 ### Chapter 3｜**Magisk 初上手 - 这些模块值得一试**

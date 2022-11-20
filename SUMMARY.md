@@ -13,15 +13,23 @@
   * [🌏 1.2.2 · 对于其他地区发售的机型](bootloader/check\_qualification/for\_global\_models.md)
   * [💡 1.2-Ex · 通用的简单验机思路](bootloader/check\_qualification/verify\_devices.md)
 * [🔓 1.3 · 几种常见的Bootloader解锁方式介绍](bootloader/ways\_to\_unlock/README.md)
-  * [🔓 1.3.1 · 直接解锁](bootloader/ways\_to\_unlock/direct.md)
-  * [✅ 1.3.2 · 申请解锁](bootloader/ways\_to\_unlock/apply.md)
-  * [🛠 1.3.3 · 第三方强制解锁](bootloader/ways\_to\_unlock/crack.md)
+  * [🖥 1.3.1 · 一点准备工作 - 驱动的安装与环境配置](bootloader/ways\_to\_unlock/1.3.1-yi-dian-zhun-bei-gong-zuo-qu-dong-de-an-zhuang-yu-huan-jing-pei-zhi.md)
+  * [🔓 1.3.2 · 直接解锁](bootloader/ways\_to\_unlock/direct.md)
+  * [✅ 1.3.3 · 申请解锁](bootloader/ways\_to\_unlock/apply.md)
+  * [🛠 1.3.4 · 第三方强制解锁](bootloader/ways\_to\_unlock/crack.md)
   * [💡 1.3-Ex · 后悔药：如何回锁Bootloader](bootloader/ways\_to\_unlock/ways\_to\_lock.md)
 * [😣 1.4 · 如果不能解锁，我还能继续吗？（待更新）](bootloader/if\_cant\_unlock.md)
 
 ## ⬇ Chapter 2｜刷入Magisk - 恢复模式与命令行 <a href="#flash_magisk" id="flash_magisk"></a>
 
-* [Page 1](flash\_magisk/page-1.md)
+* [❓ 2.1 · 我该如何选择刷入的方式？- A/B分区介绍](flash\_magisk/how\_to\_flash.md)
+* [🖥 2.2 · 命令行刷入Magisk](flash\_magisk/via\_command/README.md)
+  * [✅ 2.2.1 · 一个通用的刷入步骤](flash\_magisk/via\_command/general.md)
+  * [💡 2.2-Ex · 命令行并不神秘 - adb简单介绍](flash\_magisk/via\_command/adb\_introduction.md)
+* [🔄 2.3 · 恢复模式刷入Magisk](flash\_magisk/via\_recovery/README.md)
+  * [✅ 2.3.1 · 一个通用的刷入步骤](flash\_magisk/via\_recovery/general.md)
+  * [⚙ 2.3-Ex · 恢复模式的妙用（以TWRP为例）](flash\_magisk/via\_recovery/rec\_introduction.md)
+* [🗑 2.4 · 恢复如初 - 卸载Magisk](flash\_magisk/uninstall\_magisk.md)
 
 ## 📲 Chapter 3｜Magisk 初上手 - 这些模块值得一试 <a href="#try_magisk" id="try_magisk"></a>
 

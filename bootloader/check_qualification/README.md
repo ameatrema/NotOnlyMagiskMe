@@ -29,7 +29,7 @@ description: 根据手机品牌对号入座～想要涨姿势，可以随便看�
 [for\_global\_models.md](for\_global\_models.md)
 {% endcontent-ref %}
 
-当然，我们还准备了一点额外的内容：如何鉴别你的手机是否为原装？销售地是哪里？保修期还有多长时间？本章节的最后一章内容会对你有所帮助：
+当然，我们还准备了一点额外的内容：如何鉴别你的手机是否为原装？销售地是哪里？保修期还有多长时间？本章节的一些额外内容会对你有所帮助：
 
 {% content-ref url="verify_devices.md" %}
 [verify\_devices.md](verify\_devices.md)
