@@ -28,24 +28,35 @@
   * [💡 2.2-Ex · 命令行并不神秘 - adb简单介绍](flash\_magisk/via\_command/adb\_introduction.md)
 * [🔄 2.3 · 恢复模式刷入Magisk](flash\_magisk/via\_recovery/README.md)
   * [✅ 2.3.1 · 一个通用的刷入步骤](flash\_magisk/via\_recovery/general.md)
-  * [⚙ 2.3-Ex · 恢复模式的妙用（以TWRP为例）](flash\_magisk/via\_recovery/rec\_introduction.md)
+  * [💡 2.3-Ex · 恢复模式的妙用（以TWRP为例）](flash\_magisk/via\_recovery/rec\_introduction.md)
 * [🗑 2.4 · 恢复如初 - 卸载Magisk](flash\_magisk/uninstall\_magisk.md)
 
 ## 📲 Chapter 3｜Magisk 初上手 - 这些模块值得一试 <a href="#try_magisk" id="try_magisk"></a>
 
-* [Page 2](try\_magisk/page-2.md)
+* [😉 3.1 · 看看哪些类型的模块适合你](try\_magisk/general.md)
+* [🛡 3.2 · 保护类模块](try\_magisk/protection\_modules.md)
+* [🛠 3.3 · 插件类模块](try\_magisk/tweaks\_modules.md)
+* [⚡ 3.4 · 优化类模块](try\_magisk/optimization\_modules.md)
+* [🪄 3.5 · 美化类模块](try\_magisk/customization\_modules.md)
 
 ## 🤷 Chapter 4｜没有 Magisk 没关系 - 不解锁 Bootloader 时可以干什么 <a href="#without_magisk" id="without_magisk"></a>
 
-* [Page 3](without\_magisk/page-3.md)
+* [😸 4.1 · Shizuku简单介绍](without\_magisk/shizuku\_introduction.md)
+* [☑ 4.2 · 免root相关搞机软件推荐](without\_magisk/play\_without\_root.md)
 
 ## ⚠ Chapter 5｜路上不会一帆风顺 - 各类问题的排查、搜索与解决 <a href="#troubleshoot" id="troubleshoot"></a>
 
-* [Page 4](troubleshoot/page-4.md)
+* [😎 5.1 · 首先，请相信自己](troubleshoot/believe\_yourself.md)
+* [🧐 5.2 · 解决问题的思路](troubleshoot/general\_ways.md)
+* [💡 5.3 · 一些简单的举例](troubleshoot/examples.md)
+* [✅ 5.4 · 常见问题排除索引](troubleshoot/quick\_checkout\_list.md)
 
 ## 🪟 Chapter 6｜换个风景 - 第三方ROM的相关介绍与刷入方法 <a href="#customize_roms" id="customize_roms"></a>
 
-* [Page 5](customize\_roms/page-5.md)
+* [📲 6.2 · 简单的刷入思路](customize\_roms/ways\_to\_flash.md)
+* [📄 6.1.2 · 深度定制ROMs](customize\_roms/6.1.2-shen-du-ding-zhi-roms/README.md)
+  * [📱 6.1 · ROM介绍](customize\_roms/6.1.2-shen-du-ding-zhi-roms/introduction.md)
+  * [🗒 6.1.1 · 类原生ROMs](customize\_roms/6.1.2-shen-du-ding-zhi-roms/6.1.1-lei-yuan-sheng-roms.md)
 
 ## 🖐 Chapter 7｜请记住我 - 适合自己的选择 <a href="#remember_me" id="remember_me"></a>
 
