@@ -2,6 +2,7 @@
 
 * [🌌 Overture｜欢迎踏上玩机之旅](README.md)
   * [ℹ Info | 更新日志](master/changelog.md)
+  * [📖 Info｜参考文献](master/reference.md)
   * [💟 Info | 鸣谢&支持](master/thanks\_and\_support.md)
 
 ## 🔐 Chapter 1｜解锁Bootloader - 了解你的机型 <a href="#bootloader" id="bootloader"></a>
@@ -9,7 +10,7 @@
 * [🔒 1.1 · 简单了解Bootloader](bootloader/quick\_start.md)
 * [❓ 1.2 · 我的设备能否解锁Bootloader](bootloader/check\_qualification/README.md)
   * [🏠 1.2.1 · 对于国内发售（国行）的机型](bootloader/check\_qualification/for\_domestic\_models.md)
-  * [🌏 1.2.2 · 对于海外发售的机型](bootloader/check\_qualification/for\_global\_models.md)
+  * [🌏 1.2.2 · 对于其他地区发售的机型](bootloader/check\_qualification/for\_global\_models.md)
   * [💡 1.2-Ex · 通用的简单验机思路](bootloader/check\_qualification/verify\_devices.md)
 * [🔓 1.3 · 几种常见的Bootloader解锁方式介绍](bootloader/ways\_to\_unlock/README.md)
   * [🔓 1.3.1 · 直接解锁](bootloader/ways\_to\_unlock/direct.md)
