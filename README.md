@@ -34,32 +34,32 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 
 当你打开Magisk App，看到“已安装”后出现了版本号的时候，一定会心生一丝成就感。恭喜你！你已经打开了Magisk的魔法大门，接下来就该尽情探索了。本章就是你的一个向导，对高人气的一些模块进行了简单的介绍，帮你快速上手，让你得心应手。
 
-{% content-ref url="bootloader/ways_to_unlock/" %}
-[ways\_to\_unlock](bootloader/ways\_to\_unlock/)
+{% content-ref url="try_magisk/page-2.md" %}
+[page-2.md](try\_magisk/page-2.md)
 {% endcontent-ref %}
 
 ### Chapter 4｜没有Magisk没关系 - 不解锁Bootloader时可以干什么
 
 如果因为各种原因，你不能解锁Bootloader，也没有关系。在没有Magisk的情况下，借助其他的软件，我们也可以对手机进行一系列的操作。虽然效果、操作难易程度可能不如使用Magisk，但也可以让你体会到玩机的乐趣。
 
-{% content-ref url="bootloader/if_cant_unlock.md" %}
-[if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
+{% content-ref url="without_magisk/page-3.md" %}
+[page-3.md](without\_magisk/page-3.md)
 {% endcontent-ref %}
 
 ### Chapter 5｜路上不会一帆风顺 - 各类问题的排查、搜索与解决
 
 我们的旅程中，有鲜花，也有荆棘。你可能早已听说过“变砖”，但也可能会被吓得措手不及。并且，在使用过程中，你的手机可能还会出现很多奇奇怪怪的问题。所以，在本章中，我们将会介绍一些排查、解决问题的基本思路，以及一些最常见问题的通用解决方案。不过要记住，即使是流水线上的产物，每个人的手机也会因为使用情况而变得不同。要学会解决问题的方法，逐渐摒弃“饭来张口”的思维，才能让你披荆斩棘。
 
-{% content-ref url="bootloader/if_cant_unlock.md" %}
-[if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
+{% content-ref url="troubleshoot/page-4.md" %}
+[page-4.md](troubleshoot/page-4.md)
 {% endcontent-ref %}
 
 ### Chapter 6｜**换个风景 - 第三方ROM的相关介绍与刷入方法**
 
 用腻了手机自带的系统？觉得其他家的系统很新奇，想要体验却不想买新机？想一睹传说中“类原生”系统的真容？没关系。刷个系统就能让你原来的手机焕然一新。在这里，我们将会简单介绍一些较为热门的国内外定制系统和类原生系统，既能过个眼瘾，又能动手尝试，还记得之前的Recovery与Fastboot吗？现在就派上用场了，去尝试吧！
 
-{% content-ref url="bootloader/if_cant_unlock.md" %}
-[if\_cant\_unlock.md](bootloader/if\_cant\_unlock.md)
+{% content-ref url="customize_roms/introduction/" %}
+[introduction](customize\_roms/introduction/)
 {% endcontent-ref %}
 
 ### Chapter 7｜**请记住我 - 适合自己的选择**

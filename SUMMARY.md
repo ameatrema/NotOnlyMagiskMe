@@ -33,7 +33,7 @@
 
 ## 📲 Chapter 3｜Magisk 初上手 - 这些模块值得一试 <a href="#try_magisk" id="try_magisk"></a>
 
-* [😉 3.1 · 看看哪些类型的模块适合你](try\_magisk/general.md)
+* [😉 3.1 · 看看哪些类型的模块适合你](try\_magisk/page-2.md)
 * [🛡 3.2 · 保护类模块](try\_magisk/protection\_modules.md)
 * [🛠 3.3 · 插件类模块](try\_magisk/tweaks\_modules.md)
 * [⚡ 3.4 · 优化类模块](try\_magisk/optimization\_modules.md)
@@ -41,23 +41,34 @@
 
 ## 🤷 Chapter 4｜没有 Magisk 没关系 - 不解锁 Bootloader 时可以干什么 <a href="#without_magisk" id="without_magisk"></a>
 
-* [😸 4.1 · Shizuku简单介绍](without\_magisk/shizuku\_introduction.md)
+* [😸 4.1 · Shizuku简单介绍](without\_magisk/page-3.md)
 * [☑ 4.2 · 免root相关搞机软件推荐](without\_magisk/play\_without\_root.md)
 
 ## ⚠ Chapter 5｜路上不会一帆风顺 - 各类问题的排查、搜索与解决 <a href="#troubleshoot" id="troubleshoot"></a>
 
-* [😎 5.1 · 首先，请相信自己](troubleshoot/believe\_yourself.md)
+* [😎 5.1 · 首先，请相信自己](troubleshoot/page-4.md)
 * [🧐 5.2 · 解决问题的思路](troubleshoot/general\_ways.md)
 * [💡 5.3 · 一些简单的举例](troubleshoot/examples.md)
 * [✅ 5.4 · 常见问题排除索引](troubleshoot/quick\_checkout\_list.md)
 
 ## 🪟 Chapter 6｜换个风景 - 第三方ROM的相关介绍与刷入方法 <a href="#customize_roms" id="customize_roms"></a>
 
+* [📱 6.1 · ROM介绍](customize\_roms/introduction/README.md)
+  * [🗒 6.1.1 · 类原生ROMs](customize\_roms/introduction/original\_roms.md)
+  * [📄 6.1.2 · 深度定制ROMs](customize\_roms/introduction/customize\_roms.md)
 * [📲 6.2 · 简单的刷入思路](customize\_roms/ways\_to\_flash.md)
-* [📄 6.1.2 · 深度定制ROMs](customize\_roms/6.1.2-shen-du-ding-zhi-roms/README.md)
-  * [📱 6.1 · ROM介绍](customize\_roms/6.1.2-shen-du-ding-zhi-roms/introduction.md)
-  * [🗒 6.1.1 · 类原生ROMs](customize\_roms/6.1.2-shen-du-ding-zhi-roms/6.1.1-lei-yuan-sheng-roms.md)
 
 ## 🖐 Chapter 7｜请记住我 - 适合自己的选择 <a href="#remember_me" id="remember_me"></a>
 
-* [Page 6](remember\_me/page-6.md)
+* [🤨 7.1 · 什么才是判断一部“好手机”的“标准”](remember\_me/basic.md)
+* [📱 7.2 · 手机各主要参数简单介绍](remember\_me/tech\_specs/README.md)
+  * [🧠 7.2.1 · 灵魂所在 - SoC](remember\_me/tech\_specs/soc.md)
+  * [👁 7.2.2 · 目光所及 - 屏幕](remember\_me/tech\_specs/display.md)
+  * [📷 7.2.3 · 眺目远望 - 影像系统](remember\_me/tech\_specs/camera.md)
+  * [📶 7.2.4 · 本职工作 - 连接性能](remember\_me/tech\_specs/connectivity.md)
+  * [😋 7.2.5 · 加分体验 - 其余外围参数](remember\_me/tech\_specs/more.md)
+* [😎 7.3 · 用批判性的思维挑选手机](remember\_me/choose\_by\_yourself.md)
+* [✋ 7.4 · 告别](remember\_me/fin/README.md)
+  * [💾 7.4.1 · 数据安全](remember\_me/fin/data\_security.md)
+  * [🔄 7.4.2 · 迁移数据](remember\_me/fin/data\_transfer.md)
+  * [💰 7.4.3 · 易主 - 二手交易须知](remember\_me/fin/sell.md)
