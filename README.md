@@ -58,16 +58,16 @@ description: 不论你想要折腾手机的动机是什么，欢迎你！
 
 用腻了手机自带的系统？觉得其他家的系统很新奇，想要体验却不想买新机？想一睹传说中“类原生”系统的真容？没关系。刷个系统就能让你原来的手机焕然一新。在这里，我们将会简单介绍一些较为热门的国内外定制系统和类原生系统，既能过个眼瘾，又能动手尝试，还记得之前的Recovery与Fastboot吗？现在就派上用场了，去尝试吧！
 
-{% content-ref url="customize_roms/introduction/" %}
-[introduction](customize\_roms/introduction/)
+{% content-ref url="customize_roms/page-5.md" %}
+[page-5.md](customize\_roms/page-5.md)
 {% endcontent-ref %}
 
 ### Chapter 7｜**请记住我 - 适合自己的选择**
 
 人生从不缺离别。曾经的爱机也有退役的一天。怎样寻得满意的新欢？或许充斥在各处的广告已经让你眼花缭乱。本章将会结合前面的内容，对参数、体验等手机的重要因素进行简单分析，当然，决定权一定在你的手里。一千个人眼中有一千个哈姆雷特，希望你可以形成自己的标准，做一个理智的消费者。
 
-{% content-ref url="bootloader/ways_to_unlock/ways_to_lock.md" %}
-[ways\_to\_lock.md](bootloader/ways\_to\_unlock/ways\_to\_lock.md)
+{% content-ref url="remember_me/page-6.md" %}
+[page-6.md](remember\_me/page-6.md)
 {% endcontent-ref %}
 
 目前，教程仍处在起草与探索阶段，具体的框架尚未定型，。如有意见或建议，也欢迎大家提出，让更多的人享受到玩机的乐趣。

@@ -53,14 +53,14 @@
 
 ## 🪟 Chapter 6｜换个风景 - 第三方ROM的相关介绍与刷入方法 <a href="#customize_roms" id="customize_roms"></a>
 
-* [📱 6.1 · ROM介绍](customize\_roms/introduction/README.md)
+* [📱 6.1 · ROM介绍](customize\_roms/page-5.md)
   * [🗒 6.1.1 · 类原生ROMs](customize\_roms/introduction/original\_roms.md)
   * [📄 6.1.2 · 深度定制ROMs](customize\_roms/introduction/customize\_roms.md)
 * [📲 6.2 · 简单的刷入思路](customize\_roms/ways\_to\_flash.md)
 
 ## 🖐 Chapter 7｜请记住我 - 适合自己的选择 <a href="#remember_me" id="remember_me"></a>
 
-* [🤨 7.1 · 什么才是判断一部“好手机”的“标准”](remember\_me/basic.md)
+* [🤨 7.1 · 什么才是判断一部“好手机”的“标准”](remember\_me/page-6.md)
 * [📱 7.2 · 手机各主要参数简单介绍](remember\_me/tech\_specs/README.md)
   * [🧠 7.2.1 · 灵魂所在 - SoC](remember\_me/tech\_specs/soc.md)
   * [👁 7.2.2 · 目光所及 - 屏幕](remember\_me/tech\_specs/display.md)
