@@ -33,11 +33,12 @@
 
 ## 📲 Chapter 3｜Magisk 初上手 - 这些模块值得一试 <a href="#try_magisk" id="try_magisk"></a>
 
-* [😉 3.1 · 看看哪些类型的模块适合你](try\_magisk/page-2.md)
-* [🛡 3.2 · 保护类模块](try\_magisk/protection\_modules.md)
-* [🛠 3.3 · 插件类模块](try\_magisk/tweaks\_modules.md)
-* [⚡ 3.4 · 优化类模块](try\_magisk/optimization\_modules.md)
-* [🪄 3.5 · 美化类模块](try\_magisk/customization\_modules.md)
+* [😉 3.1 · 看看哪些类型的模块适合你](try\_magisk/general/README.md)
+  * [🛡 3.1.1 · 保护类模块](try\_magisk/general/protection\_modules.md)
+  * [🛠 3.1.2 · 插件类模块](try\_magisk/general/tweaks\_modules.md)
+  * [⚡ 3.1.3 · 优化类模块](try\_magisk/general/optimization\_modules.md)
+  * [🪄 3.1.4 · 美化类模块](try\_magisk/general/customization\_modules.md)
+* [❗ 3.2 · 虽好勿贪 - 模块冲突注意事项](try\_magisk/avoid\_conflict.md)
 
 ## 🤷 Chapter 4｜没有 Magisk 没关系 - 不解锁 Bootloader 时可以干什么 <a href="#without_magisk" id="without_magisk"></a>
 
