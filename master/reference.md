@@ -1,5 +1,5 @@
 ---
-description: 这里会列出教程编写过程中浏览过的几乎所有网页/文件等内容，并不局限于编写进入教程的内容。
+description: 这里会列出教程编写过程中提供了参考价值的内容。
 ---
 
 # 📖 Info｜参考文献
@@ -20,7 +20,7 @@ description: 这里会列出教程编写过程中浏览过的几乎所有网页/
 
 <details>
 
-<summary>1.2.1 · 对于国内发售（国行）的机型 · 23篇</summary>
+<summary>1.2.1 · 对于国内发售（国行）的机型 · 24篇</summary>
 
 [https://consumer.huawei.com/cn/support/warranty-policy/smartphone/](https://consumer.huawei.com/cn/support/warranty-policy/smartphone/)
 
@@ -67,5 +67,7 @@ description: 这里会列出教程编写过程中浏览过的几乎所有网页/
 [https://www.zhihu.com/question/288372173/](https://www.zhihu.com/question/288372173)
 
 [https://www.52pojie.cn/thread-816065-1-1.html](https://www.52pojie.cn/thread-816065-1-1.html)
+
+[https://www.coolapk1s.com/feed/38128839](https://www.coolapk1s.com/feed/38128839)
 
 </details>
