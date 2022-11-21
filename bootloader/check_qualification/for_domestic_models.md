@@ -17,7 +17,7 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 | [vivo / iQOO \*](for\_domestic\_models.md#vivo-iqoo)      | <mark style="color:yellow;">第三方强制解锁</mark> | <mark style="color:red;">不支持</mark> / <mark style="color:green;">可逆</mark>  |
 | [小米 / Redmi](for\_domestic\_models.md#xiao-mi-redmi)      | <mark style="color:green;">申请解锁</mark>     | <mark style="color:red;">不支持</mark> / <mark style="color:green;">可逆</mark>  |
 | [一加](for\_domestic\_models.md#yi-jia)                     | <mark style="color:green;">直接解锁</mark>     | <mark style="color:green;">支持</mark> / <mark style="color:green;">可逆</mark> |
-| [中兴 / 努比亚 / 红魔](for\_domestic\_models.md#undefined)       | <mark style="color:red;">不可解锁</mark>       | <mark style="color:red;">不支持</mark>                                         |
+| [中兴 / 努比亚 / 红魔 \*](for\_domestic\_models.md#undefined)    | <mark style="color:yellow;">第三方强制解锁</mark> | <mark style="color:red;">不支持</mark>                                         |
 
 请注意，品牌后有\*标注的，表示并不是该品牌的所有机型都支持解锁，更为详细的信息请对应至下方的详细解释。
 
@@ -93,7 +93,7 @@ OPPO / 真我于近几年开启了“深度测试“计划，对于一些发布�
 
 <summary>一加</summary>
 
-一加的解锁方式在国内环境中可能是最方便的。
+一加的解锁方式在国内环境中可能是最方便的。请直接移步[1.3.1小节](../ways\_to\_unlock/1.3.1-yi-dian-zhun-bei-gong-zuo-qu-dong-de-an-zhuang-yu-huan-jing-pei-zhi.md)与[1.3.2小节](../ways\_to\_unlock/direct.md)，按照教程继续即可。
 
 </details>
 
@@ -101,6 +101,8 @@ OPPO / 真我于近几年开启了“深度测试“计划，对于一些发布�
 
 <summary>中兴 / 努比亚 / 红魔</summary>
 
+很遗憾，
 
+当然，其他机型也可以在有限的条件下体验部分玩机软件，请转至[1.4节](../if\_cant\_unlock.md)以获取更多信息。
 
 </details>
