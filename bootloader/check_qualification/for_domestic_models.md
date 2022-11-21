@@ -8,7 +8,7 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 | 品牌                                                        | 解锁类型                                       | 是否支持解锁后保修 |
 | --------------------------------------------------------- | ------------------------------------------ | --------- |
-| [华为 / 荣耀](for\_domestic\_models.md#model-test)            | <mark style="color:red;">不可解锁</mark>       |           |
+| [华为 / 荣耀](for\_domestic\_models.md#hua-wei-rong-yao)      | <mark style="color:red;">不可解锁</mark>       |           |
 | [魅族 \*](for\_domestic\_models.md#mei-zu)                  | <mark style="color:yellow;">第三方强制解锁</mark> |           |
 | [moto / 拯救者](for\_domestic\_models.md#moto-zheng-jiu-zhe) | <mark style="color:green;">申请解锁</mark>     |           |
 | [OPPO / 真我 \*](for\_domestic\_models.md#oppo-zhen-wo)     | <mark style="color:green;">申请解锁</mark>     |           |
