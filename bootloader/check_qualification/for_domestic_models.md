@@ -39,7 +39,11 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 <summary>魅族</summary>
 
+目前，部分机型可通过第三方工具的方式解锁Bootloader。可通过以下链接了解详情。
 
+[魅族解锁教程 by sukanka](https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/%E8%A7%A3%E9%94%81BL)（18-21年发布的机型）
+
+当然，其他机型也可以在有限的条件下体验部分玩机软件，请转至[1.4节](../if\_cant\_unlock.md)以获取更多信息。
 
 </details>
 
@@ -91,7 +95,11 @@ OPPO / 真我于近几年开启了“深度测试“计划，对于一些发布�
 
 可能会丢失的功能包括但不限于（各机型差别较大）：
 
-* DRM
+* DRM密钥（用与Google Play安全认证、Netfix等流媒体播放的安全认证等）
+* 相机拍照算法
+* 其他独占功能（如超逼真算法、大师显示模式等）
+
+若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/1.3.1-yi-dian-zhun-bei-gong-zuo-qu-dong-de-an-zhuang-yu-huan-jing-pei-zhi.md)与[1.3.3小节](../ways\_to\_unlock/apply.md)，按照教程进行即可。
 
 </details>
 
@@ -99,7 +107,11 @@ OPPO / 真我于近几年开启了“深度测试“计划，对于一些发布�
 
 <summary>vivo / iQOO</summary>
 
+目前，部分机型可通过第三方工具的方式解锁Bootloader。可通过以下链接了解详情。
 
+[viQOO工具箱合作版 by ?? / 某贼](https://www.coolapk1s.com/feed/38926327)
+
+当然，其他机型也可以在有限的条件下体验部分玩机软件，请转至[1.4节](../if\_cant\_unlock.md)以获取更多信息。
 
 </details>
 

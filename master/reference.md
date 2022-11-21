@@ -20,7 +20,7 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 <details>
 
-<summary>1.2.1 · 对于国内发售（国行）的机型 · 24篇</summary>
+<summary>1.2.1 · 对于国内发售（国行）的机型 · 26篇</summary>
 
 [https://consumer.huawei.com/cn/support/warranty-policy/smartphone/](https://consumer.huawei.com/cn/support/warranty-policy/smartphone/)
 
@@ -68,6 +68,12 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 [https://www.52pojie.cn/thread-816065-1-1.html](https://www.52pojie.cn/thread-816065-1-1.html)
 
-[https://www.coolapk1s.com/feed/38128839](https://www.coolapk1s.com/feed/38128839)
+[https://www.coolapk.com/feed/38128839/](https://www.coolapk1s.com/feed/38128839)
+
+[https://www.coolapk.com/feed/38926327/](https://www.coolapk1s.com/feed/38926327)
+
+[https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/](https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B)
+
+[https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/%E8%A7%A3%E9%94%81BL/](https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/%E8%A7%A3%E9%94%81BL)
 
 </details>
