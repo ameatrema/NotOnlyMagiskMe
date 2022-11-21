@@ -14,14 +14,52 @@ description: 这里会列出教程编写过程中浏览过的几乎所有网页/
 
 <summary>1.1 · 简单了解Bootloader · 1篇</summary>
 
-【科普向】Android手机的BL锁到底是什么东东 [https://www.bilibili.com/read/cv307758](https://www.bilibili.com/read/cv307758)
+[https://www.bilibili.com/read/cv307758/](https://www.bilibili.com/read/cv307758)
 
 </details>
 
 <details>
 
-<summary>1.2.1 · 对于国内发售（国行）的机型 · x篇</summary>
+<summary>1.2.1 · 对于国内发售（国行）的机型 · 20篇</summary>
 
+[https://consumer.huawei.com/cn/support/warranty-policy/smartphone/](https://consumer.huawei.com/cn/support/warranty-policy/smartphone/)
 
+[https://www.hihonor.com/cn/support/warrantypolicy/smartphone/](https://www.hihonor.com/cn/support/warrantypolicy/smartphone/)
+
+[https://www.bilibili.com/read/cv8869541/](https://www.bilibili.com/read/cv8869541/)
+
+[https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a)
+
+[https://club.lenovo.com.cn/thread-5955202-1-1.html](https://club.lenovo.com.cn/thread-5955202-1-1.html)
+
+[https://www.zui.com/iunlock/](https://www.zui.com/iunlock)
+
+[https://www.oppo.cn/thread-393984762-1/](https://www.oppo.cn/thread-393984762-1)
+
+[https://www.realmebbs.com/post-details/1275426081138028544/](https://www.realmebbs.com/post-details/1275426081138028544)
+
+[https://www.sohu.com/a/15376544\_177698/](https://www.sohu.com/a/15376544\_177698)
+
+[https://www.samsung.com/cn/support/warranty/](https://www.samsung.com/cn/support/warranty/)
+
+[https://www.bilibili.com/read/cv3801929/](https://www.bilibili.com/read/cv3801929)
+
+[https://service.sony.com.cn/content/casch/serviceinfo/servicepolicy.html](https://service.sony.com.cn/content/casch/serviceinfo/servicepolicy.html)
+
+[https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader#unlock-code/](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader#unlock-code)
+
+[https://www.vivo.com.cn/service/questions/all?categoryId=96\&scroll=952.5714111328125/](https://www.vivo.com.cn/service/questions/all?categoryId=96\&scroll=952.5714111328125)
+
+[https://www.mi.com/service/serviceAgreement?id=34/](https://www.mi.com/service/serviceAgreement?id=34)
+
+[https://zhuanlan.zhihu.com/p/395020862/](https://zhuanlan.zhihu.com/p/395020862)
+
+[http://www.miui.com/unlock/index.html/](http://www.miui.com/unlock/index.html)
+
+[https://service.oneplus.com/cn/search/search-detail?id=op33/](https://service.oneplus.com/cn/search/search-detail?id=op33)
+
+[https://rma.zte.com.cn/show/appMobileServicePolicy/](https://rma.zte.com.cn/show/appMobileServicePolicy)
+
+[https://www.nubia.com/active/aftersalespolicy.html#faq04/](https://www.nubia.com/active/aftersalespolicy.html#faq04)
 
 </details>
