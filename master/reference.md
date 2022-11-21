@@ -20,11 +20,13 @@ description: 这里会列出教程编写过程中浏览过的几乎所有网页/
 
 <details>
 
-<summary>1.2.1 · 对于国内发售（国行）的机型 · 20篇</summary>
+<summary>1.2.1 · 对于国内发售（国行）的机型 · 21篇</summary>
 
 [https://consumer.huawei.com/cn/support/warranty-policy/smartphone/](https://consumer.huawei.com/cn/support/warranty-policy/smartphone/)
 
 [https://www.hihonor.com/cn/support/warrantypolicy/smartphone/](https://www.hihonor.com/cn/support/warrantypolicy/smartphone/)
+
+[https://service.meizu.com/help/after\_ser.html#policy4/](https://service.meizu.com/help/after\_ser.html#policy4)
 
 [https://www.bilibili.com/read/cv8869541/](https://www.bilibili.com/read/cv8869541/)
 
