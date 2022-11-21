@@ -20,7 +20,7 @@ description: 这里会列出教程编写过程中浏览过的几乎所有网页/
 
 <details>
 
-<summary>1.2.1 · 对于国内发售（国行）的机型 · 22篇</summary>
+<summary>1.2.1 · 对于国内发售（国行）的机型 · 23篇</summary>
 
 [https://consumer.huawei.com/cn/support/warranty-policy/smartphone/](https://consumer.huawei.com/cn/support/warranty-policy/smartphone/)
 
@@ -65,5 +65,7 @@ description: 这里会列出教程编写过程中浏览过的几乎所有网页/
 [https://www.nubia.com/active/aftersalespolicy.html#faq04/](https://www.nubia.com/active/aftersalespolicy.html#faq04)
 
 [https://www.zhihu.com/question/288372173/](https://www.zhihu.com/question/288372173)
+
+[https://www.52pojie.cn/thread-816065-1-1.html](https://www.52pojie.cn/thread-816065-1-1.html)
 
 </details>
