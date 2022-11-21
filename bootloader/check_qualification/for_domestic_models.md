@@ -87,7 +87,11 @@ OPPO / 真我于近几年开启了“深度测试“计划，对于一些发布�
 
 <summary>索尼</summary>
 
+请注意，索尼的机型在解锁Bootloader后将<mark style="color:red;">永久丢失保修状态与部分功能</mark>，即使回锁也无法恢复。
 
+可能会丢失的功能包括但不限于（各机型差别较大）：
+
+* DRM
 
 </details>
 
