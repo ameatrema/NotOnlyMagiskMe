@@ -6,7 +6,12 @@ description: 现在是，咕咕时间！
 
 <details>
 
-<summary>Version 2022 更新日志｜最近更新日期：2022.11.20</summary>
+<summary>Version 2022 更新日志｜最近更新日期：2022.11.21</summary>
+
+#### Version 2022 Update 8 · 2022.11.21
+
+* 文章篇幅简化准备
+* 初步准备1.2相关内容
 
 #### Version 2022 Update 7 · 2022.11.20
 

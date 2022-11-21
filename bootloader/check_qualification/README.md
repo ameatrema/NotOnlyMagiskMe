@@ -35,6 +35,12 @@ description: 根据手机品牌对号入座～想要涨姿势，可以随便看�
 [verify\_devices.md](verify\_devices.md)
 {% endcontent-ref %}
 
+了解了这些之后，就可以开始实操了：
+
+{% content-ref url="../ways_to_unlock/" %}
+[ways\_to\_unlock](../ways\_to\_unlock/)
+{% endcontent-ref %}
+
 最后，如果我的机型不能解锁Bootloader，或者我考虑过后决定不想解锁Bootloader，但又想体验一把玩机的乐趣，该怎么办？当然可以，本教程也在逐步完善相关的内容：
 
 {% content-ref url="../if_cant_unlock.md" %}
