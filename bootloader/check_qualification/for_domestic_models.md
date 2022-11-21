@@ -27,7 +27,9 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 <summary>华为 / 荣耀</summary>
 
+很遗憾，华为、荣耀于2018年就已经关闭了官方的解锁申请通道，并且，由于系统的深度定制，使用第三方工具强制解锁的办法，也仅支持到2018年左右发布的机型。对第三方工具解锁感兴趣的可以查看[这个帖子](https://www.52pojie.cn/thread-816065-1-1.html)作为参考。
 
+当然，其他机型也可以在有限的条件下体验部分玩机软件，请转至[1.4节](../if\_cant\_unlock.md)以获取更多信息。
 
 </details>
 
@@ -51,7 +53,7 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 <summary>OPPO / 真我</summary>
 
-
+OPPO / 真我于近几年开启了“深度测试“计划，对于一些发布超过半年以上的机型，厂商会开启申请通道，供用户自行选择，支持的机型与解锁方法请见[OPPO论坛](https://www.oppo.cn/thread-393984762-1)与[realme论坛](https://www.realmebbs.com/post-details/1275426081138028544)。
 
 </details>
 
@@ -91,7 +93,7 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 <summary>一加</summary>
 
-
+一加的解锁方式在国内环境中可能是最方便的。
 
 </details>
 
