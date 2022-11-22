@@ -13,7 +13,7 @@
   * [🌏 1.2.2 · 对于其他地区发售的机型](bootloader/check\_qualification/for\_global\_models.md)
   * [💡 1.2-Ex · 通用的简单验机思路](bootloader/check\_qualification/verify\_devices.md)
 * [🔓 1.3 · 几种常见的Bootloader解锁方式介绍](bootloader/ways\_to\_unlock/README.md)
-  * [🖥 1.3.1 · 一点准备工作 - 驱动的安装与环境配置](bootloader/ways\_to\_unlock/1.3.1-yi-dian-zhun-bei-gong-zuo-qu-dong-de-an-zhuang-yu-huan-jing-pei-zhi.md)
+  * [🖥 1.3.1 · 一点准备工作 - 驱动的安装与环境配置](bootloader/ways\_to\_unlock/preparation.md)
   * [🔓 1.3.2 · 直接解锁](bootloader/ways\_to\_unlock/direct.md)
   * [✅ 1.3.3 · 申请解锁](bootloader/ways\_to\_unlock/apply.md)
   * [🛠 1.3.4 · 第三方强制解锁](bootloader/ways\_to\_unlock/crack.md)
