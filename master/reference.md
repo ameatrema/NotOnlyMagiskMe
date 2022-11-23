@@ -74,6 +74,16 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 [https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/](https://github.com/sukanka/MEIZU16S\_unlock\_tutorial/wiki/%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B)
 
+</details>
 
+<details>
+
+<summary>1.2.2 · 对于其他地区发售的机型 · 3篇</summary>
+
+[https://www.ithome.com/0/590/830.htm](https://www.ithome.com/0/590/830.htm)
+
+[https://developer.lge.com/resource/mobile/RetrieveBootloader.dev](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev)
+
+[https://www.xda-developers.com/how-to-bootloader-unlock-root-magisk-nothing-phone-1/](https://www.xda-developers.com/how-to-bootloader-unlock-root-magisk-nothing-phone-1/)
 
 </details>

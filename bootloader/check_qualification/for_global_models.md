@@ -28,7 +28,9 @@ description: 各地区机器差别较大，仅供参考。
 
 <summary>Google (Pixel)</summary>
 
+**关于运营商的解释：**美版Pixel存在部分带**网络锁**的机器（又被称作“**adb解锁**”、“**OEM关**”等），无法通过正常渠道解开Bootloader锁（部分机器在原机主合约到期后即可正常解锁），对于此类机器的鉴别，请参考[1.2-Ex小节](verify\_devices.md)的内容。
 
+对于没有网络锁的机器，若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.2小节](../ways\_to\_unlock/direct.md)，按照教程进行即可。
 
 </details>
 
@@ -36,7 +38,9 @@ description: 各地区机器差别较大，仅供参考。
 
 <summary>LG</summary>
 
+**由于LG各机型可解锁情况较为复杂，且存在硬解等情况，教程仍在完善中。**目前唯一可以提供的信息是，LG已在2021.12.31关闭了官方的Bootloader解锁申请通道：
 
+[LG Developer](https://developer.lge.com/resource/mobile/RetrieveBootloader.dev)
 
 </details>
 
@@ -44,7 +48,9 @@ description: 各地区机器差别较大，仅供参考。
 
 <summary>moto</summary>
 
+**关于运营商的解释：**美版moto存在部分带**网络锁**的机器，无法通过正常渠道解开Bootloader锁（部分机器在原机主合约到期后即可正常解锁），对于此类机器的鉴别，请参考[1.2-Ex小节](verify\_devices.md)的内容。
 
+对于没有网络锁的机器，若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.3小节](../ways\_to\_unlock/apply.md)，按照教程进行即可。
 
 </details>
 
@@ -52,13 +58,15 @@ description: 各地区机器差别较大，仅供参考。
 
 <summary>Nothing</summary>
 
-
+若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.2小节](../ways\_to\_unlock/direct.md)，按照教程进行即可。
 
 </details>
 
 <details>
 
 <summary>三星</summary>
+
+**关于运营商的解释：**部分美版三星机器由于运营商愿n
 
 
 
@@ -68,7 +76,11 @@ description: 各地区机器差别较大，仅供参考。
 
 <summary>索尼</summary>
 
+**关于运营商的解释：**
 
+****
+
+对于没有网络锁的机器，若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.3小节](../ways\_to\_unlock/apply.md)，按照教程进行即可。
 
 </details>
 
@@ -76,7 +88,9 @@ description: 各地区机器差别较大，仅供参考。
 
 <summary>一加</summary>
 
+**关于运营商的解释：**美版一加存在部分带**网络锁**的机器，无法通过正常渠道解开Bootloader锁（部分机器在原机主合约到期后即可正常解锁），对于此类机器的鉴别，请参考[1.2-Ex小节](verify\_devices.md)的内容。
 
+对于没有网络锁的机器，若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.2小节](../ways\_to\_unlock/direct.md)，按照教程进行即可。
 
 </details>
 
