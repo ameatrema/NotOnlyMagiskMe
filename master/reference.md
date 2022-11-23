@@ -86,4 +86,6 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 [https://www.xda-developers.com/how-to-bootloader-unlock-root-magisk-nothing-phone-1/](https://www.xda-developers.com/how-to-bootloader-unlock-root-magisk-nothing-phone-1/)
 
+[https://sajotim.github.io/2020/03/15/Sony%E9%80%9A%E7%94%A8%E5%88%B7%E6%9C%BA%E6%8C%87%E5%8D%97-2020/](https://sajotim.github.io/2020/03/15/Sony%E9%80%9A%E7%94%A8%E5%88%B7%E6%9C%BA%E6%8C%87%E5%8D%97-2020/)
+
 </details>
