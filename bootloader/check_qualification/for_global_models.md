@@ -78,7 +78,7 @@ description: 各地区机器差别较大，仅供参考。
 
 **关于运营商的解释：**部分美版索尼机器由于运营商及销售原因，即使没有运营商锁，也无法解开Bootloader；而日版机器基本均为运营商定制机，绝大多数都需要通过第三方工具强制解锁。对于此类机器的鉴别，请参考[1.2-Ex小节](verify\_devices.md)的内容。
 
-日版机器查看能否使用申请解锁的方法：
+**查看能否使用申请解锁的方法：**拨号盘输入**\*#\*#7378423#\*#\***，进入**Service info > Configuration > Rooting Status**，若**Bootloader unlock allowed**后显示**Yes**，则可以使用申请解锁；若为**No**，则需要使用第三方工具，在购物平台搜索“**索尼 日版 解锁**”等关键词查找即可。
 
 对于没有网络锁的机器，若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.3小节](../ways\_to\_unlock/apply.md)，按照教程进行即可。
 
@@ -93,4 +93,3 @@ description: 各地区机器差别较大，仅供参考。
 对于没有网络锁的机器，若要继续，请直接移步[1.3.1小节](../ways\_to\_unlock/preparation.md)与[1.3.2小节](../ways\_to\_unlock/direct.md)，按照教程进行即可。
 
 </details>
-
