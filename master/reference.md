@@ -134,4 +134,6 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 [https://developer.sony.com/develop/drivers/](https://developer.sony.com/develop/drivers/)
 
+[https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn/](https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn)
+
 </details>

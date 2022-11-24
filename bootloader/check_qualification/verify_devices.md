@@ -35,28 +35,29 @@ description: 掌握思路是重点，一些步骤适用于任何电子设备。
 
 在开机进入桌面后，在拨号盘输入**\*#06#**，会出现设备**IMEI**（国际移动通信识别码，**全世界唯一**）：
 
-* 对于全新机，将IMEI**1**与包装标签、卡槽（如有IMEI）等进行比对
-* 对于二手机，将IMEI**1**与卡槽（多见于Pixel、索尼）等进行比对
+* 对于全新机，将IMEI与包装标签、卡槽（如有IMEI）等进行比对
+* 对于二手机，将IMEI与卡槽（多见于Pixel、索尼）等进行比对
+* **注意：如果有两个IMEI，除非特殊说明，否则均使用IMEI1，下文不再赘述。**
 
-接下来，长按IMEI1进行复制，之后便可以进行真伪验证：
+接下来，长按IMEI进行复制，之后便可以进行真伪验证：
 
 **对于国内发售的机型来说**，大家可以到各品牌的官方网站进行查询，这里附上几个（按首字母排序）：
 
-| 品牌          | 网址                                                                                                                                        |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 华为          | [https://consumer.huawei.com/cn/support/warranty-query/](https://consumer.huawei.com/cn/support/warranty-query/)                          |
-| 魅族          | [https://service.meizu.com/authenticity.html](https://service.meizu.com/authenticity.html)                                                |
-| moto / 拯救者  | [https://activity.lenovo.com.cn/activity/activation/index.html](https://activity.lenovo.com.cn/activity/activation/index.html)            |
-| 努比亚 / 红魔    | [https://pre.nubia.com/active/762460b1da61e90.html](https://pre.nubia.com/active/762460b1da61e90.html)                                    |
-| OPPO        | [https://support.oppo.com/cn/check/](https://support.oppo.com/cn/check/)                                                                  |
-| 荣耀          | [https://www.hihonor.com/cn/support/warranty-query/](https://www.hihonor.com/cn/support/warranty-query/)                                  |
-| 三星          | [https://support-cn.samsung.com.cn/supportcn/imei/default.aspx](https://support-cn.samsung.com.cn/supportcn/imei/default.aspx)            |
-| 索尼          | [https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html](https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html)            |
-| vivo / iQOO | [https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index/](https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index) |
-| 小米 / Redmi  | [https://m.buy.mi.com/hk/registration/](https://m.buy.mi.com/hk/registration)                                                             |
-| 一加          | [https://service.oneplus.com/cn/check/](https://service.oneplus.com/cn/check)                                                             |
-| 真我          | [https://www.realme.com/support/phonecheck/](https://www.realme.com/support/phonecheck)                                                   |
-| 中兴          | [http://rma.zte.com.cn/pc/imeiCheck.html](http://rma.zte.com.cn/pc/imeiCheck.html)                                                        |
+| 品牌          | 网址                                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 华为          | [https://consumer.huawei.com/cn/support/warranty-query/](https://consumer.huawei.com/cn/support/warranty-query/)                         |
+| 魅族          | [https://service.meizu.com/authenticity.html](https://service.meizu.com/authenticity.html)                                               |
+| moto / 拯救者  | [https://activity.lenovo.com.cn/activity/activation/index.html](https://activity.lenovo.com.cn/activity/activation/index.html)           |
+| 努比亚 / 红魔    | [https://pre.nubia.com/active/762460b1da61e90.html](https://pre.nubia.com/active/762460b1da61e90.html)                                   |
+| OPPO        | [https://support.oppo.com/cn/check/](https://support.oppo.com/cn/check/)                                                                 |
+| 荣耀          | [https://www.hihonor.com/cn/support/warranty-query/](https://www.hihonor.com/cn/support/warranty-query/)                                 |
+| 三星          | [https://support-cn.samsung.com.cn/supportcn/imei/default.aspx](https://support-cn.samsung.com.cn/supportcn/imei/default.aspx)           |
+| 索尼          | [https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html](https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html)           |
+| vivo / iQOO | [https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/ndex/](https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index) |
+| 小米 / Redmi  | [https://m.buy.mi.com/hk/registration/](https://m.buy.mi.com/hk/registration)                                                            |
+| 一加          | [https://service.oneplus.com/cn/check/](https://service.oneplus.com/cn/check)                                                            |
+| 真我          | [https://www.realme.com/support/phonecheck/](https://www.realme.com/support/phonecheck)                                                  |
+| 中兴          | [http://rma.zte.com.cn/pc/imeiCheck.html](http://rma.zte.com.cn/pc/imeiCheck.html)                                                       |
 
 {% hint style="info" %}
 **很多厂商的SN（序列号）也可以用来验证。**
@@ -91,6 +92,7 @@ description: 掌握思路是重点，一些步骤适用于任何电子设备。
 * 屏幕显示是否异常（坏点、亮线、漏液、烧屏、低亮度偏色等，可使用安兔兔等软件测试）
 * 扬声器是否异常（破音、不出声等）
 * 相机是否异常（无法启动、拍照、录像等）
+* 连接性能是否正常（能否正常打电话发短信、Wi-Fi与移动数据能否正常连接并使用等）
 * 传感器是否异常（重力传感器、光线传感器、距离传感器等）
 * 系统稳定性（是否有频繁死机、自动重启、错误弹窗等现象）
 * 其他（振动等）
