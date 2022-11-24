@@ -89,3 +89,25 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 [https://sajotim.github.io/](https://sajotim.github.io/2020/03/15/Sony%E9%80%9A%E7%94%A8%E5%88%B7%E6%9C%BA%E6%8C%87%E5%8D%97-2020/)
 
 </details>
+
+<details>
+
+<summary>1.2-Ex · 通用的简单验机思路 · 1篇</summary>
+
+[https://m.buy.mi.com/hk/registration/](https://m.buy.mi.com/hk/registration)
+
+
+
+</details>
+
+<details>
+
+<summary>1.3.1 · 一点准备工作 - 驱动的安装与环境配置 · 3篇</summary>
+
+[https://developer.android.com/studio/run/oem-usb#InstallingDriver/](https://developer.android.com/studio/run/oem-usb#InstallingDriver)
+
+[https://developer.android.com/studio/run/win-usb/](https://developer.android.com/studio/run/win-usb)
+
+[https://developer.sony.com/develop/drivers/](https://developer.sony.com/develop/drivers/)
+
+</details>
