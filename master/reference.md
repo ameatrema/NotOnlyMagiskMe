@@ -1,5 +1,5 @@
 ---
-description: 这里会列出教程编写过程中提供了参考价值的内容。
+description: 这里会列出教程编写过程中提供了参考价值的内容，感谢。
 ---
 
 # 📖 Info｜参考文献
@@ -92,11 +92,35 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 <details>
 
-<summary>1.2-Ex · 通用的简单验机思路 · 1篇</summary>
+<summary>1.2-Ex · 通用的简单验机思路 · 14篇</summary>
 
 [https://m.buy.mi.com/hk/registration/](https://m.buy.mi.com/hk/registration)
 
+[https://www.imei.info/](https://www.imei.info/)
 
+[https://service.meizu.com/authenticity.html](https://service.meizu.com/authenticity.html)
+
+[https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html](https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html)
+
+[https://pre.nubia.com/active/762460b1da61e90.html](https://pre.nubia.com/active/762460b1da61e90.html)
+
+[https://activity.lenovo.com.cn/activity/activation/index.html](https://activity.lenovo.com.cn/activity/activation/index.html)
+
+[http://rma.zte.com.cn/pc/imeiCheck.html](http://rma.zte.com.cn/pc/imeiCheck.html)
+
+[https://service.oneplus.com/cn/check/](https://service.oneplus.com/cn/check)
+
+[https://www.realme.com/support/phonecheck/](https://www.realme.com/support/phonecheck)
+
+[https://consumer.huawei.com/cn/support/warranty-query/](https://consumer.huawei.com/cn/support/warranty-query/)
+
+[https://support.oppo.com/cn/check/](https://support.oppo.com/cn/check/)
+
+[https://www.hihonor.com/cn/support/warranty-query/](https://www.hihonor.com/cn/support/warranty-query/)
+
+[https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index/](https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index)
+
+[https://support-cn.samsung.com.cn/supportcn/imei/default.aspx](https://support-cn.samsung.com.cn/supportcn/imei/default.aspx)
 
 </details>
 

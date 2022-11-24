@@ -42,15 +42,21 @@ description: 掌握思路是重点，一些步骤适用于任何电子设备。
 
 **对于国内发售的机型来说**，大家可以到各品牌的官方网站进行查询，这里附上几个（按首字母排序）：
 
-| 品牌     | 网址 |
-| ------ | -- |
-| 华为     |    |
-| 魅族     |    |
-| moto   |    |
-| 努比亚 /  |    |
-| OPPO   |    |
-| 荣耀     |    |
-|        |    |
+| 品牌          | 网址                                                                                                                                        |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 华为          | [https://consumer.huawei.com/cn/support/warranty-query/](https://consumer.huawei.com/cn/support/warranty-query/)                          |
+| 魅族          | [https://service.meizu.com/authenticity.html](https://service.meizu.com/authenticity.html)                                                |
+| moto / 拯救者  | [https://activity.lenovo.com.cn/activity/activation/index.html](https://activity.lenovo.com.cn/activity/activation/index.html)            |
+| 努比亚 / 红魔    | [https://pre.nubia.com/active/762460b1da61e90.html](https://pre.nubia.com/active/762460b1da61e90.html)                                    |
+| OPPO        | [https://support.oppo.com/cn/check/](https://support.oppo.com/cn/check/)                                                                  |
+| 荣耀          | [https://www.hihonor.com/cn/support/warranty-query/](https://www.hihonor.com/cn/support/warranty-query/)                                  |
+| 三星          | [https://support-cn.samsung.com.cn/supportcn/imei/default.aspx](https://support-cn.samsung.com.cn/supportcn/imei/default.aspx)            |
+| 索尼          | [https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html](https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html)            |
+| vivo / iQOO | [https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index/](https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index) |
+| 小米 / Redmi  | [https://m.buy.mi.com/hk/registration/](https://m.buy.mi.com/hk/registration)                                                             |
+| 一加          | [https://service.oneplus.com/cn/check/](https://service.oneplus.com/cn/check)                                                             |
+| 真我          | [https://www.realme.com/support/phonecheck/](https://www.realme.com/support/phonecheck)                                                   |
+| 中兴          | [http://rma.zte.com.cn/pc/imeiCheck.html](http://rma.zte.com.cn/pc/imeiCheck.html)                                                        |
 
 {% hint style="info" %}
 **很多厂商的SN（序列号）也可以用来验证。**
