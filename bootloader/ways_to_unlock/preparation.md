@@ -25,13 +25,13 @@ description: 不要忽略！不要忽略！不要忽略！
 * 打开`usb_driver`，右击`android_winusb.inf`，点击安装
 * 注意，在此期间，**任何系统、杀毒软件等弹出的授权类的窗口均选择“是”**
 
-当然，如果大家不放心的话，Android官方也提供了一些厂商的USB驱动以供下载，如果大家的机型是**申请解锁**的类型，可以参考下面的页面，跳转到对应品牌的下载页面后进行安装，或者参考[1.3.3](apply.md)、[1.2.1](../check\_qualification/for\_domestic\_models.md)、[1.2.2](../check\_qualification/for\_global\_models.md)小节中的相关页面：
+当然，如果大家不放心的话，Android官方也提供了一些厂商的USB驱动以供下载，如果大家的机型是**申请解锁**的类型，可以参考下面的页面，跳转到对应品牌的下载页面后进行安装，或者参考[1.3.3](apply.md)或[1.2.1](../check\_qualification/for\_domestic\_models.md)、[1.2.2](../check\_qualification/for\_global\_models.md)小节中的相关页面：
 
 {% embed url="https://developer.android.google.cn/studio/run/oem-usb?hl=zh_cn" %}
 按需使用
 {% endembed %}
 
-最后，针对一些需要依赖**第三方强制解锁**的机型，建议直接参考[1.](../check\_qualification/for\_domestic\_models.md)[3.4](crack.md)[1.2.1](../check\_qualification/for\_domestic\_models.md)、[1.2.2](../check\_qualification/for\_global\_models.md)小节中对应机型的解锁工具。一般来说，由于解锁方式的特殊性，这些工具箱/教程都会有安装驱动的相关步骤，在此不再赘述。
+最后，针对一些需要依赖**第三方强制解锁**的机型，建议直接参考[1.](../check\_qualification/for\_domestic\_models.md)[3.4](crack.md)或[1.2.1](../check\_qualification/for\_domestic\_models.md)、[1.2.2](../check\_qualification/for\_global\_models.md)小节中对应机型的解锁工具。一般来说，由于解锁方式的特殊性，这些工具箱/教程都会有安装驱动的相关步骤，在此不再赘述。
 
 {% hint style="info" %}
 **Windows Update也可以帮助识别并安装设备驱动，并且可能有助于解决某些情况下，电脑不识别设备的问题。**
