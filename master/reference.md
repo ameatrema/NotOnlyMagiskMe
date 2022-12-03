@@ -7,7 +7,7 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 {% hint style="warning" %}
 **如果您认为教程内容侵犯了您的权利，请及时联系。**
 
-教程在编写之时由于仓促，不便通知所有的参考文献的作者，敬请谅解。如您发现教程中的内容侵犯了您的著作权等权利，请及时联系。
+教程在编写之时由于仓促，不便通知所有的参考文献的作者，敬请谅解。如您发现教程中的内容侵犯了您的著作权等权利，或不符合您的转载要求，请及时联系。
 {% endhint %}
 
 <details>
@@ -126,13 +126,15 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 <details>
 
-<summary>1.3.1 · 一点准备工作 - 驱动的安装与环境配置 · 3篇</summary>
+<summary>1.3.1 · 一点准备工作 - 驱动的安装与环境配置 · 5篇</summary>
 
 [https://developer.android.com/studio/run/oem-usb#InstallingDriver/](https://developer.android.com/studio/run/oem-usb#InstallingDriver)
 
 [https://developer.android.com/studio/run/win-usb/](https://developer.android.com/studio/run/win-usb)
 
 [https://developer.sony.com/develop/drivers/](https://developer.sony.com/develop/drivers/)
+
+[https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn](https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn)
 
 [https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn/](https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn)
 
