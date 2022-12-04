@@ -6,11 +6,12 @@ description: 现在是，咕咕时间！
 
 <details>
 
-<summary>Version 2022 更新日志｜最近更新日期：2022.12.4</summary>
+<summary>Version 2022 更新日志｜更新日期：2022.12.4</summary>
 
 #### Version 2022 Update 12 · 2022.12.4
 
 * 微调1.3.1小节相关内容
+* 编写1.3.4小节相关内容
 
 #### Version 2022 Update 11 · 2022.12.3
 
@@ -77,8 +78,8 @@ description: 现在是，咕咕时间！
 
 * Chapter 1 - Bootloader
   * [x] 1.1 Bootloader简介
-  * [ ] 1.2 解锁资格查询
-  * [ ] 1.2-Ex 简易验机思路
+  * [x] 1.2 解锁资格查询
+  * [x] 1.2-Ex 简易验机思路
   * [ ] 1.3 解锁方式介绍
   * [ ] 1.3-Ex 回锁教程
   * [ ] 1.4 不能解锁的情况下体验部分玩机软件
