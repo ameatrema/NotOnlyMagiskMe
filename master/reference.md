@@ -126,7 +126,7 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 <details>
 
-<summary>1.3.1 · 一点准备工作 - 驱动的安装与环境配置 · 5篇</summary>
+<summary>1.3.1 · 一点准备工作 - 驱动的安装与环境配置 · 6篇</summary>
 
 [https://developer.android.com/studio/run/oem-usb#InstallingDriver/](https://developer.android.com/studio/run/oem-usb#InstallingDriver)
 
@@ -134,8 +134,10 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 [https://developer.sony.com/develop/drivers/](https://developer.sony.com/develop/drivers/)
 
-[https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn](https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn)
+[https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn](https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn)/
 
 [https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn/](https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn)
+
+[https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn](https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn)/
 
 </details>
