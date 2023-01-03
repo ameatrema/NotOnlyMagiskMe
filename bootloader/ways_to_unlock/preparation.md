@@ -124,11 +124,12 @@ description: 不要忽略！不要忽略！不要忽略！
 
 此时，你应该会在cmd中看到以下内容：
 
-`List of devices attached`&#x20;
+```
+List of devices attached 
+XXXXXXXX device
+```
 
-`XXXXXXXX device`
-
-其中，XXXXXXXX指代了设备的标识符，每个设备都不同。若标识符后显示`unauthorized`，可以尝试重新运行一遍`adb devices`。
+其中，`XXXXXXXX`指代了设备的标识符，每个设备都不同。若标识符后显示`unauthorized`，可以尝试重新运行一遍`adb devices`。
 
 {% hint style="warning" %}
 **关于连接不成功的部分疑难解答**

@@ -1,5 +1,7 @@
 ---
 description: 不论你想要折腾手机的动机是什么，欢迎你！
+cover: .gitbook/assets/cover_Overture_test.png
+coverY: 75.86206896551724
 ---
 
 # 🌌 Overture｜欢迎踏上玩机之旅
