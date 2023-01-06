@@ -10,7 +10,9 @@ description: 现在是，咕咕时间！
 
 #### Version 2023 Update 2 · 2023.1.6
 
-* 编写7.1小节相关内容
+* 初步准备7.1小节相关内容
+* 修改7.3小节内容
+* 微调Chapter 2、Chapter 7目录
 
 #### Version 2023 Update 1 · 2023.1.3
 

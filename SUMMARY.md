@@ -29,7 +29,8 @@
 * [🔄 2.3 · 恢复模式刷入Magisk](flash\_magisk/via\_recovery/README.md)
   * [✅ 2.3.1 · 一个通用的刷入步骤](flash\_magisk/via\_recovery/general.md)
   * [💡 2.3-Ex · 恢复模式的妙用（以TWRP为例）](flash\_magisk/via\_recovery/rec\_introduction.md)
-* [🗑 2.4 · 恢复如初 - 卸载Magisk](flash\_magisk/uninstall\_magisk.md)
+* [🗑 2.4 · 卸载Magisk](flash\_magisk/uninstall\_magisk.md)
+* [⬆ 2.5 - 在系统升级时保留Magisk](flash\_magisk/keep\_magisk\_after\_update.md)
 
 ## 📲 Chapter 3｜Magisk 初上手 - 这些模块值得一试 <a href="#try_magisk" id="try_magisk"></a>
 
@@ -71,6 +72,6 @@
   * [😋 7.2.5 · 其余外围参数](remember\_me/tech\_specs/more.md)
 * [😎 7.3 · 用批判性的思维挑选手机](remember\_me/choose\_by\_yourself.md)
 * [✋ 7.4 · 告别](remember\_me/fin/README.md)
-  * [💾 7.4.1 · 数据安全](remember\_me/fin/data\_security.md)
-  * [🔄 7.4.2 · 迁移数据](remember\_me/fin/data\_transfer.md)
+  * [❗ 7.4.1 · 数据安全](remember\_me/fin/data\_security.md)
+  * [➡ 7.4.2 · 迁移数据](remember\_me/fin/data\_transfer.md)
   * [💰 7.4.3 · 易主 - 二手交易须知](remember\_me/fin/sell.md)
