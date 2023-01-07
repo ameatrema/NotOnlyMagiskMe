@@ -22,7 +22,7 @@
 
 ## ⬇ Chapter 2｜刷入Magisk - 恢复模式与命令行 <a href="#flash_magisk" id="flash_magisk"></a>
 
-* [❓ 2.1 · 我该如何选择刷入的方式？- A/B分区介绍](flash\_magisk/how\_to\_flash.md)
+* [❓ 2.1 · 我该如何选择刷入的方式？- 分区介绍](flash\_magisk/how\_to\_flash.md)
 * [🖥 2.2 · 命令行刷入Magisk](flash\_magisk/via\_command/README.md)
   * [✅ 2.2.1 · 一个通用的刷入步骤](flash\_magisk/via\_command/general.md)
   * [💡 2.2-Ex · 命令行并不神秘 - adb简单介绍](flash\_magisk/via\_command/adb\_introduction.md)
