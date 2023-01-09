@@ -6,7 +6,14 @@ description: 现在是，咕咕时间！
 
 <details>
 
-<summary>Version 2023 更新日志｜更新日期：2023.1.7</summary>
+<summary>Version 2023 更新日志｜更新日期：2023.1.9</summary>
+
+#### Version 2023 Update 4 · 2023.1.9
+
+* 编写7.3小节相关内容
+* 微调Chapter 7目录
+* 初步准备7.2小节相关内容
+* 修改1.2-Ex小节相关内容
 
 #### Version 2023 Update 3 · 2023.1.7
 
@@ -17,7 +24,7 @@ description: 现在是，咕咕时间！
 #### Version 2023 Update 2 · 2023.1.6
 
 * 初步准备7.1小节相关内容
-* 修改7.3小节内容
+* 修改7.3小节相关内容
 * 微调Chapter 2、Chapter 7目录
 
 #### Version 2023 Update 1 · 2023.1.3
