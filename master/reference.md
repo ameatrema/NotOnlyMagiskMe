@@ -144,12 +144,20 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 <details>
 
-<summary>7.3 · 如何挑选适合自己的手机 · 2篇</summary>
+<summary>7.3 · 如何挑选适合自己的手机 · 6篇</summary>
 
 [https://shop.vivo.com.cn/product/list-1](https://shop.vivo.com.cn/product/list-1)
 
 [https://www.apple.com.cn/iphone/](https://www.apple.com.cn/iphone/)
 
 [https://www.nubia.com/phone/redmagic](https://www.nubia.com/phone/redmagic)
+
+[https://www.vmall.com/index.html?cid=171341](https://www.vmall.com/index.html?cid=171341)
+
+[https://www.meizu.com/](https://www.meizu.com/)
+
+[https://www.opposhop.cn/cn/web/](https://www.opposhop.cn/cn/web/)
+
+[https://www.mi.com/](https://www.mi.com/)
 
 </details>
