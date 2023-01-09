@@ -134,10 +134,22 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 [https://developer.sony.com/develop/drivers/](https://developer.sony.com/develop/drivers/)
 
-[https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn](https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn)/
+[https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn](https://developer.android.google.cn/studio/run/win-usb?hl=zh\_cn)
 
 [https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn/](https://developer.android.google.cn/studio/run/oem-usb?hl=zh\_cn)
 
-[https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn](https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn)/
+[https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn](https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn)
+
+</details>
+
+<details>
+
+<summary>7.3 · 如何挑选适合自己的手机 · 2篇</summary>
+
+[https://shop.vivo.com.cn/product/list-1](https://shop.vivo.com.cn/product/list-1)
+
+[https://www.apple.com.cn/iphone/](https://www.apple.com.cn/iphone/)
+
+[https://www.nubia.com/phone/redmagic](https://www.nubia.com/phone/redmagic)
 
 </details>
