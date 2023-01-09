@@ -144,7 +144,7 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 
 <details>
 
-<summary>7.3 · 如何挑选适合自己的手机 · 10篇</summary>
+<summary>7.3 · 如何挑选适合自己的手机 · 13篇</summary>
 
 [https://shop.vivo.com.cn/product/list-1](https://shop.vivo.com.cn/product/list-1)
 
@@ -167,5 +167,9 @@ description: 这里会列出教程编写过程中提供了参考价值的内容�
 [https://www.sony.com.cn/zh-cn/cms/index.html](https://www.sony.com.cn/zh-cn/cms/index.html)
 
 [https://www.realme.com/](https://www.realme.com/)
+
+[https://shop.lenovo.com.cn/](https://shop.lenovo.com.cn/)
+
+[https://www.ztedevices.com/cn/products/smart-phone/](https://www.ztedevices.com/cn/products/smart-phone/)
 
 </details>
