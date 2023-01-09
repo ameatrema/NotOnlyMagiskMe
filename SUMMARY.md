@@ -65,7 +65,7 @@
 
 * [🤨 7.1 · 什么才是判断一部“好手机”的“标准”](remember\_me/page-6.md)
 * [📱 7.2 · 手机各主要参数简单介绍](remember\_me/tech\_specs/README.md)
-  * [🧠 7.2.1 · SoC](remember\_me/tech\_specs/soc.md)
+  * [🧠 7.2.1 · SoC / 性能](remember\_me/tech\_specs/soc.md)
   * [👁 7.2.2 · 屏幕](remember\_me/tech\_specs/display.md)
   * [📷 7.2.3 · 影像系统](remember\_me/tech\_specs/camera.md)
   * [📶 7.2.4 · 连接性能](remember\_me/tech\_specs/connectivity.md)
