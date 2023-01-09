@@ -69,7 +69,7 @@
   * [👁 7.2.2 · 屏幕](remember\_me/tech\_specs/display.md)
   * [💾 7.2.3 · 运行内存与存储空间](remember\_me/tech\_specs/ram\&rom.md)
   * [📷 7.2.4 · 影像系统](remember\_me/tech\_specs/camera.md)
-  * [😋 7.2.5 · 其余外围参数](remember\_me/tech\_specs/more.md)
+  * [😋 7.2.5 · 其他参数](remember\_me/tech\_specs/more.md)
 * [😎 7.3 · 如何挑选适合自己的手机](remember\_me/choose\_by\_yourself.md)
 * [✋ 7.4 · 告别](remember\_me/fin/README.md)
   * [❗ 7.4.1 · 数据安全](remember\_me/fin/data\_security.md)
