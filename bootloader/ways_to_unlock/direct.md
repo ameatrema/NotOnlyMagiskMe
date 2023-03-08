@@ -40,11 +40,11 @@ description: 数据无价，注意备份。
 {% hint style="info" %}
 **各机型进入Bootloader的组合键可能会有差异。**
 
-部分机型进入Bootloader的按键与其他机型可能有差异。如三星机型为**音量上+音量下**等。若在尝试教程所给的所有按键组合后，仍然无法正常进入Bootloader，请搜索`具体型号+进入Bootloader`。
+部分机型进入Bootloader的按键与其他机型可能有差异。如三星机型为**音量上+音量下**等。若在尝试教程所给的所有按键组合后，仍然无法正常进入Bootloader，请搜索`具体手机型号+进入Bootloader`。
 {% endhint %}
 
 {% hint style="warning" %}
-**若手机出现了您无法理解的画面，请尝试强制重启。**
+**若手机出现了无法理解的画面，请尝试强制重启。**
 
 若教程提供的进入方法与大家的手机不匹配，可能会使设备进入其他模式，如恢复模式（Recovery）等。若无法理解手机上显示的画面，请尝试长按电源键强制重启设备。
 
@@ -58,4 +58,23 @@ description: 数据无价，注意备份。
 * 此时手机会自动重启，并显示诸如**“FASTBOOT”**、**“Fastboot Mode”**，或**下载图标**等内容，表明手机已经进入了Bootloader
 
 ### 二、电脑上的准备：使用adb进行操作
+
+#### 1. 确认手机与电脑已正确连接
+
+在手机成功进入Bootloader模式后，就可以进行进一步操作了：
+
+* 将手机连接至电脑
+* 在`platform-tools`文件夹中启动cmd
+* 在cmd中输入`fastboot devices`
+
+此时，你应该会在cmd中看到以下内容：
+
+```
+List of devices attached 
+XXXXXXXX fastboot
+```
+
+其中，`XXXXXXXX`指代了设备的标识符，每个设备都不同。若标识符后显示`unauthorized`或其他内容，甚至在输入`fastboot devices`后没有出现任何内容，请再次查看并尝试[1.3.1小节](preparation.md)有关“连接不成功的疑难解答”中的相关解决方案。
+
+#### 2. 解锁Bootloader
 
