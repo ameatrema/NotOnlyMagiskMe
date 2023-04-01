@@ -8,6 +8,10 @@ description: 现在是，咕咕时间！
 
 <summary>Version 2023 更新日志｜更新日期：2023.3.8</summary>
 
+#### Version 2023 Update 11 · 2023.4.1
+
+* 编写1.3.2小节相关内容
+
 #### Version 2023 Update 10 · 2023.3.8
 
 * 编写1.3.2小节相关内容

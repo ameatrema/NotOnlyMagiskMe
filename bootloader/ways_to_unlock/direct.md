@@ -78,3 +78,32 @@ XXXXXXXX fastboot
 
 #### 2. 解锁Bootloader
 
+在连接成功后，就可以进行进一步操作了：
+
+* 在cmd中输入`fastboot oem unlock`
+* 此时手机界面会显示警告信息，按下手机音量键，使`Unlock the Bootloader`选项被选中，随后按下电源键确认
+* 此时手机会自动重启几次，完成清除数据操作，并进入开机向导
+
+至此，手机的Bootloader就已经解除，可以进行下一步——刷入Magisk了：
+
+{% content-ref url="../../flash_magisk/how_to_flash.md" %}
+[how\_to\_flash.md](../../flash\_magisk/how\_to\_flash.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+**手机在解锁Bootloader后，每次开机时均会显示警告信息。**
+
+在解锁Bootloader后，每次开机时，都会显示一些警告信息，如：
+
+`The boot loader is unlocked and software integrity cannot be guaranteed. Any data stored on the device may be available to attackers. Do not store any sensitive data on the device.`
+
+`Visit this link on another device:`
+
+<mark style="color:orange;">`g.co/ABH`</mark>
+
+`PRESS POWER KEY TO PAUSE BOOT`
+
+这是正常现象，忽略即可。若无法接受，请考虑查看[1.3-Ex小节](ways\_to\_lock.md)的相关内容来回锁Bootloader。
+
+
+{% endhint %}
