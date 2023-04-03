@@ -95,6 +95,8 @@ XXXXXXXX fastboot
 
 在解锁Bootloader后，每次开机时，都会显示一些警告信息，如：
 
+<mark style="color:orange;">`<!>`</mark>
+
 `The boot loader is unlocked and software integrity cannot be guaranteed. Any data stored on the device may be available to attackers. Do not store any sensitive data on the device.`
 
 `Visit this link on another device:`
