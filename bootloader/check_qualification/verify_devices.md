@@ -31,6 +31,10 @@ description: 掌握思路是重点，一些步骤适用于任何电子设备。
 * 随附配件是否符合商品描述
 * 对于所称原装机，有无明显的拆修痕迹（如后盖是否有被撬动的痕迹，螺丝是否有被拧动的痕迹，部件的连接方式是否感到有明显的错位等异常）
 
+{% hint style="warning" %}
+
+{% endhint %}
+
 ### 三、验证系统信息、真伪
 
 在开机进入桌面后，在拨号盘输入**\*#06#**，会出现设备**IMEI**（国际移动通信识别码，**全世界唯一**）：
@@ -46,21 +50,7 @@ description: 掌握思路是重点，一些步骤适用于任何电子设备。
 
 **对于国内发售的机型来说**，大家可以到各品牌的官方网站进行查询，这里附上几个（按首字母排序）：
 
-| 品牌          | 网址                                                                                                                                       |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 华为          | [https://consumer.huawei.com/cn/support/warranty-query/](https://consumer.huawei.com/cn/support/warranty-query/)                         |
-| 魅族          | [https://service.meizu.com/authenticity.html](https://service.meizu.com/authenticity.html)                                               |
-| moto / 拯救者  | [https://activity.lenovo.com.cn/activity/activation/index.html](https://activity.lenovo.com.cn/activity/activation/index.html)           |
-| 努比亚 / 红魔    | [https://pre.nubia.com/active/762460b1da61e90.html](https://pre.nubia.com/active/762460b1da61e90.html)                                   |
-| OPPO        | [https://support.oppo.com/cn/check/](https://support.oppo.com/cn/check/)                                                                 |
-| 荣耀          | [https://www.hihonor.com/cn/support/warranty-query/](https://www.hihonor.com/cn/support/warranty-query/)                                 |
-| 三星          | [https://support-cn.samsung.com.cn/supportcn/imei/default.aspx](https://support-cn.samsung.com.cn/supportcn/imei/default.aspx)           |
-| 索尼          | [https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html](https://www.sonystyle.com.cn/sonyclub/product\_reg/index.html)           |
-| vivo / iQOO | [https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/ndex/](https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index) |
-| 小米 / Redmi  | [https://m.buy.mi.com/hk/registration/](https://m.buy.mi.com/hk/registration)                                                            |
-| 一加          | [https://service.oneplus.com/cn/check/](https://service.oneplus.com/cn/check)                                                            |
-| 真我          | [https://www.realme.com/support/phonecheck/](https://www.realme.com/support/phonecheck)                                                  |
-| 中兴          | [http://rma.zte.com.cn/pc/imeiCheck.html](http://rma.zte.com.cn/pc/imeiCheck.html)                                                       |
+<table><thead><tr><th width="158">品牌</th><th width="589">网址</th></tr></thead><tbody><tr><td>华为</td><td><a href="https://consumer.huawei.com/cn/support/warranty-query/">https://consumer.huawei.com/cn/support/warranty-query/</a></td></tr><tr><td>魅族</td><td><a href="https://service.meizu.com/authenticity.html">https://service.meizu.com/authenticity.html</a></td></tr><tr><td>moto / 拯救者</td><td><a href="https://activity.lenovo.com.cn/activity/activation/index.html">https://activity.lenovo.com.cn/activity/activation/index.html</a></td></tr><tr><td>努比亚 / 红魔</td><td><a href="https://pre.nubia.com/active/762460b1da61e90.html">https://pre.nubia.com/active/762460b1da61e90.html</a></td></tr><tr><td>OPPO</td><td><a href="https://support.oppo.com/cn/check/">https://support.oppo.com/cn/check/</a></td></tr><tr><td>荣耀</td><td><a href="https://www.hihonor.com/cn/support/warranty-query/">https://www.hihonor.com/cn/support/warranty-query/</a></td></tr><tr><td>三星</td><td><a href="https://support-cn.samsung.com.cn/supportcn/imei/default.aspx">https://support-cn.samsung.com.cn/supportcn/imei/default.aspx</a></td></tr><tr><td>索尼</td><td><a href="https://www.sonystyle.com.cn/sonyclub/product_reg/index.html">https://www.sonystyle.com.cn/sonyclub/product_reg/index.html</a></td></tr><tr><td>vivo / iQOO</td><td><a href="https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/index">https://www.vivo.com.cn/service/mobilePhoneAuthenticityCheck/ndex/</a></td></tr><tr><td>小米 / Redmi</td><td><a href="https://m.buy.mi.com/hk/registration">https://m.buy.mi.com/hk/registration/</a></td></tr><tr><td>一加</td><td><a href="https://service.oneplus.com/cn/check">https://service.oneplus.com/cn/check/</a></td></tr><tr><td>真我</td><td><a href="https://www.realme.com/support/phonecheck">https://www.realme.com/support/phonecheck/</a></td></tr><tr><td>中兴</td><td><a href="http://rma.zte.com.cn/pc/imeiCheck.html">http://rma.zte.com.cn/pc/imeiCheck.html</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 **很多厂商的SN（序列号）也可以用来验证。**
@@ -72,6 +62,12 @@ description: 掌握思路是重点，一些步骤适用于任何电子设备。
 **手机的激活日期可能会有误差。**
 
 由于数据同步、出库流程等原因，第一次查询到的手机激活日期不一定与实际日期完全相同，一般来说，手机第一次激活几天后，激活日期才会变为实际日期。
+{% endhint %}
+
+{% hint style="warning" %}
+**有关部分品牌（如OPPO、vivo、iQOO、一加、真我等）“资源机”的说明：**
+
+
 {% endhint %}
 
 **而对于海外发售的机型来说，**大家可以通过一些免费的IMEI查询网站，查询到诸如手机颜色、销售地区、销售时间、保修期限等相关信息，这里列举一个，其他的查询网站亦可。

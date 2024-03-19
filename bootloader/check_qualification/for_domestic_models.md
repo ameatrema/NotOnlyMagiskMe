@@ -8,7 +8,7 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 | 品牌                                                        | 解锁类型                                       | 是否支持解锁后保修                                                                   |
 | --------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- |
-| [华为 / 荣耀](for\_domestic\_models.md#hua-wei-rong-yao)      | <mark style="color:red;">不可解锁</mark>       | <mark style="color:red;">不支持</mark>                                         |
+| [华为 \* / 荣耀](for\_domestic\_models.md#hua-wei-rong-yao)   | <mark style="color:yellow;">第三方强制解锁</mark> | <mark style="color:red;">不支持</mark> / <mark style="color:green;">可逆</mark>  |
 | [魅族 \*](for\_domestic\_models.md#mei-zu)                  | <mark style="color:yellow;">第三方强制解锁</mark> | <mark style="color:red;">不支持</mark> / <mark style="color:green;">可逆</mark>  |
 | [moto / 拯救者](for\_domestic\_models.md#moto-zheng-jiu-zhe) | <mark style="color:green;">申请解锁</mark>     | <mark style="color:red;">不支持</mark> / <mark style="color:red;">不可逆</mark>   |
 | [OPPO / 真我 \*](for\_domestic\_models.md#oppo-zhen-wo)     | <mark style="color:green;">申请解锁</mark>     | <mark style="color:red;">不支持</mark> / <mark style="color:green;">可逆</mark>  |
@@ -27,7 +27,7 @@ description: 国行机型解锁情况比较简单，对号入座即可。
 
 <summary>华为 / 荣耀</summary>
 
-很遗憾，华为、荣耀于2018年就已经关闭了官方的解锁申请通道，并且，由于系统的深度定制，使用第三方工具强制解锁的办法，也仅支持到2018年左右发布的机型。对第三方工具解锁感兴趣的可以查看以下链接作为参考。
+华为、荣耀于2018年就已经关闭了官方的解锁申请通道，并且，由于系统的深度定制，使用第三方工具强制解锁的办法，也仅支持到2018年左右发布的机型、以及部分搭载骁龙芯片的华为机型。对第三方工具解锁感兴趣的可以查看以下链接作为参考。
 
 [绕开华为通道，获取解锁码解锁BootLoader](https://www.52pojie.cn/thread-816065-1-1.html)
 

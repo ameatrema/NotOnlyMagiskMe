@@ -2,11 +2,22 @@
 description: 现在是，咕咕时间！
 ---
 
-# ℹ Info | 更新日志
+# ℹ️ Info | 更新日志
 
 <details>
 
-<summary>Version 2023 更新日志｜更新日期：2023.3.8</summary>
+<summary>Version 2024 更新日志｜更新日期：2023.3.19</summary>
+
+#### Version 2024 Update 1 · 2023.3.19
+
+* 测试封面图片
+* 修改1.3.1小节相关内容
+
+</details>
+
+<details>
+
+<summary>Version 2023 更新日志</summary>
 
 #### Version 2023 Update 11 · 2023.4.1
 
